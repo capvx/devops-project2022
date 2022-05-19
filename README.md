@@ -1,11 +1,11 @@
 # devops-project2022
 Practical Lab Project for DevOps
 
-#Vangrant
+# Vangrant
 Creating and installing multiple virtual box machines
 
-#Ansible
+# Ansible
 Managing Server Configuration with Ansible
 
-#Docker
+# Docker
 Containerizing Application with Docker
